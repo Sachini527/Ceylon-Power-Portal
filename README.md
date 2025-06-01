@@ -42,8 +42,8 @@ This system fulfills the following two core functionalities:
 
 | Unit Range   | Fixed Charge | Per Unit Charge                                  |
 |--------------|--------------|--------------------------------------------------|
-| First Range  | —            | 20 LKR per unit                                  |
-| Second Range | —            | 35 LKR per unit                                  |
+| First Range  | 500 LKR      | 20 LKR per unit                                  |
+| Second Range | 1000 LKR     | 35 LKR per unit                                  |
 | Third Range  | 1500 LKR     | Starts at 40 LKR and increases by 1 LKR/unit     |
 
 - Fixed charge is only applied when the third range is reached.
