@@ -1,5 +1,5 @@
 
-# ⚡ Ceylon Power Billing System
+# ⚡ Ceylon Power Portal
 
 The Ceylon Electricity Board requires a system to store customer electricity meter readings and allow customers to check their last electricity bill with a full breakdown of charges. This project fulfills that requirement with a web-based application (no mobile support needed at this stage) consisting of:
 
