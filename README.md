@@ -1,12 +1,13 @@
 
 # ⚡ Ceylon Power Portal
 
-The Ceylon Electricity Board requires a system to store customer electricity meter readings and allow customers to check their last electricity bill with a full breakdown of charges. This project fulfills that requirement with a web-based application (no mobile support needed at this stage) consisting of:
+Ceylon Power Portal is a simplified, web-based electricity billing system designed to streamline operations for utility providers. It allows meter readers to record electricity usage for existing customers and enables customers to instantly view their latest bill with a detailed charge breakdown.
 
+Key features include:
 - A web interface for meter readers to input new readings for existing customers.
 - A public interface for customers to check their latest bill by entering their account number.
 
-Customer registration is not part of this project scope, and the initial customer database is assumed to be preloaded.
+A preloaded customer database is used as the foundation of the system.
 
 ---
 
